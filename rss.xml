@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Radio Televisión Española (RTVE)</title>
+    <link>https://www.rtve.es/</link>
+    <description>RTVE Blog donde se publican articulos de interés general.</description>
+    <languaje>Español</languaje>
+    <copyright>Radio Televisión Española (RTVE)</copyright>
+    <category>Televión y Radio.</category>
+
+    <item>
+        <title>Top 10 mejores voces de la historia tanto nacional como internacional.</title>
+        <link>https://www.rtve.es/radio/20200416/10-mejores-voces-historia-musica/2012153.shtml</link>
+        <description>RTVE Blog donde expone brevemente cuales son las 10 mejores voces tanto nacional como internacional.</description>
+        <pubdate>Thu, 16 Apr 2020 00:00:00 +0000</pubdate>
+    </item>
+</channel>
+
+<channel>
+    <title>IMDb reseñas</title>
+    <link>https://www.imdb.com/es-es/?ref_=ls_nv_home</link>
+    <description>IMDb es un sitio publico donde los usuarios pueden publicar reseñas acerca de peliculas, música...</description>
+    <languaje>Español</languaje>
+    <copyright>IMDb.com, Inc.</copyright>
+    <category>Reseñas.</category>
+
+    <item>
+        <title>Top 50 mejores cantantes de todos los tiempos según IMDb.</title>
+        <link>https://www.imdb.com/es-es/list/ls066790627/</link>
+        <description>Publicación de un usuario sobre los 50 mejores artistas de todos los tiempos.</description>
+        <pubdate>Fri, 01 Jan 2016 00:00:00 +0000</pubdate>
+    </item>
+</channel>
+
+
+<channel>
+    <title>IndieHoy</title>
+    <link>https://indiehoy.com/</link>
+    <description>IndieHoy es un blog donde se publican articulos sobre peliculas, series y música.</description>
+    <languaje>Español</languaje>
+    <copyright>IndieHoy 2026.</copyright>
+    <category>Artículos</category>
+
+    <item>
+        <title>Los 20 mejores cantantes de la historia según Rolling Stone.</title>
+        <link>https://indiehoy.com/noticias/los-20-mejores-cantantes-de-la-historia-segun-rolling-stone/</link>
+        <description>20 mejores cantantes según el criterio de los Rolling Stone.</description>
+        <pubdate>Thu, 05 Jan 2023 00:00:00 +0000</pubdate>
+    </item>
+</channel>
+</rss>
